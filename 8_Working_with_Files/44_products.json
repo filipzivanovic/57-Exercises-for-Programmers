@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Widget",
+      "quantity": 5,
+      "price": 25.0
+    },
+    {
+      "name": "Thing",
+      "quantity": 5,
+      "price": 15.0
+    },
+    {
+      "name": "Doodad",
+      "quantity": 10,
+      "price": 5.0
+    },
+    {
+      "name": "Phone",
+      "quantity": 13,
+      "price": 69.96
+    }
+  ]
+}
