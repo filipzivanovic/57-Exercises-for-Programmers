@@ -1,5 +1,5 @@
 # 57-Exercises-for-Programmers
-This are my solutions for "Exercises for Programmers: 57 Challenges to Develop Your Coding Skills" https://pragprog.com/book/bhwb/exercises-for-programmers
+These are my solutions for "Exercises for Programmers: 57 Challenges to Develop Your Coding Skills" https://pragprog.com/book/bhwb/exercises-for-programmers
 
 Each exercise is in a separate folder.
 
